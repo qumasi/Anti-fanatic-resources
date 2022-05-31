@@ -1,4 +1,4 @@
-﻿The dataset size is large which cannot be available for download directly from this page. Instead and I will send you a link for a Google Drive page where you may download them easily in zip files. "It's also helpful, but not essential, if you can let me know which University or company you work or study at so I can get a sense of how widely used the archive is in academia and industry".
+﻿There are 3 datasets. One for training the model and two for testing. The annotated process is described in the given references below. In addition, the following youtube video link shows how the testing dataset is annotated. The link is (https://youtu.be/9CQaVTRA6D8). "It's also helpful, but not essential, if you can let me know which University or company you work or study at so I can get a sense of how widely used the archive is in academia and industry".
 
 Mohammed Alqmase - Contact details:
 Personal Emails: alqumasi@gmail.com
