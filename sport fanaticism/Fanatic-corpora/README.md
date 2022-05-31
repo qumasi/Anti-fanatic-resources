@@ -8,6 +8,7 @@ If you use a dataset, then please, cite the associated papers [1] [2] found belo
 
 
 [1] M. Alqmase, H. Al-Muhtasab and H. Rabaan, "Sports-Fanaticism Formalism for Sentiment Analysis in Arabic Text," Social Network Analysis and Mining (SNAM), 2021. 
+[2] M. Alqmase, H. Al-Muhtasab and H. Rabaan, "Sports-Fanaticism Lexicon for Sentiment Analysis in Arabic Text," Social Network Analysis and Mining (SNAM), 2022. 
 
 More details about this work and the datasets can be found in my Master thesis file which can be accessed through the following link:
 https://eprints.kfupm.edu.sa/id/eprint/141005
